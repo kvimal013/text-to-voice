@@ -1,1 +1,2 @@
-# Portfolio_kv
+This is portfolio website developed using HTML, 
+css and Javascript
