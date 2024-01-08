@@ -1,2 +1,1 @@
-This is portfolio website developed using HTML, 
-css and Javascript
+This project show that how powerfull is javascript can be attractive projects with help of Javascript.
